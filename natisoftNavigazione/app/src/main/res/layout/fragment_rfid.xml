@@ -1,0 +1,42 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.natisoftnavigazione.RfidFragment" >
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="20dp"
+            >
+
+            <TextView
+                android:id="@+id/textViewScansioneRfid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignRight="@+id/bntPulisciListaRfid"
+                android:layout_alignParentLeft="true"
+                android:gravity="center_horizontal"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <Button
+                android:id="@+id/bntPulisciListaRfid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Pulisci"
+                android:layout_below="@+id/textViewScansioneRfid"
+                android:layout_alignParentLeft="true"
+                android:layout_marginTop="44dp"
+                />
+
+        </RelativeLayout>
+    </ScrollView>
+
+</FrameLayout>

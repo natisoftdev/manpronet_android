@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/pref_attracco_db" >
+        <EditTextPreference
+            	android:title="@string/pref_stringa_connessione" 
+            	android:summary="@string/pref_stringa_connessione_summary" 
+            	android:key="prefDBStringa"
+            	android:singleLine="true"
+    			android:maxLines="1"	
+    			android:inputType="text|textEmailAddress"
+    			android:capitalize="none"
+            	/>
+
+        <EditTextPreference
+            android:title="@string/pref_login"
+            android:summary="@string/pref_login_summary"
+            android:key="prefDBUsername"
+            android:inputType="text" />
+
+        <EditTextPreference
+            android:title="@string/pref_pwd"
+            android:summary="@string/pref_pwd_summary"
+            android:key="prefDBPassword"
+            android:inputType="textPassword" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/barCompressioneImg_title" >
+        <SeekBarPreference
+            android:key="livCompress"
+            android:title="@string/barCompressioneImg_summary"
+            android:max="100"
+            android:defaultValue="60"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/categoria_servizi" >
+        <!--
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="attivazioneServizioLocalizzazione"
+            android:title="@string/servizio_geolocalizzazione"
+            android:summary="@string/pref_servizio_geolocalizzazione"
+            />
+        -->
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="attivazioneServizioNotificheTicket"
+            android:title="@string/servizio_ticket"
+            android:summary="@string/pref_servizio_ticket"
+            />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/pref_iterazione_con_utente" >
+        <ListPreference
+            android:defaultValue="2"
+            android:key="avvisiErroriConnessione"
+            android:entries="@array/avvisiErroriConnessione_entries"
+            android:summary="@string/avvisiErroriConnessione_summary"
+            android:entryValues="@array/avvisiErroriConnessione_values"
+            android:title="@string/avvisiErroriConnessione" />
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="prefControlliAvvioLocalizzazione"
+            android:summary="@string/pref_controllo_avvio_summary"
+            android:title="@string/pref_controllo_avvio_localiz" >
+        </CheckBoxPreference>
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="prefControlliAvvioRete"
+            android:summary="@string/pref_controllo_avvio_summary"
+            android:title="@string/pref_controllo_avvio_rete" >
+        </CheckBoxPreference>
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="prefControlliNfc"
+            android:summary="@string/pref_controllo_avvio_summary"
+            android:title="@string/pref_controllo_avvio_nfc" >
+        </CheckBoxPreference>
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefControlliFullScreen"
+            android:summary="@string/pref_fullscreen_summary"
+            android:title="@string/pref_fullscreen_title" >
+        </CheckBoxPreference>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/pref_update_setting" >
+		<Preference android:title="@string/aggiorna_applicazione" android:key="updateApp" android:summary="@string/cerca_manualmente_aggiornamenti"/>
+        <Preference android:title="@string/versione_app" android:key="versionNumberUser" android:summary=""/>
+<!--
+        <Preference android:title="@string/indirizzo_portale" android:key="indirizzo_portale" android:summary=""/>
+        <Preference android:title="@string/nome_odbc" android:key="nome_odbc" android:summary=""/>
+
+        <EditTextPreference
+            android:title="@string/indirizzo_portale"
+            android:key="indirizzo_portale"
+            android:singleLine="true"
+            android:maxLines="1"
+            android:inputType="text"
+            android:capitalize="none"
+            android:enabled="false"
+            />
+
+        <EditTextPreference
+            android:title="@string/nome_odbc"
+            android:key="nome_odbc"
+            android:singleLine="true"
+            android:maxLines="1"
+            android:inputType="text"
+            android:capitalize="none"
+            android:enabled="false"
+            />
+-->
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,95 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.natisoftnavigazione.ImpostazioniFragment" >
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ScrollView
+
+        android:id="@+id/scrollView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="20dp"
+            >
+
+            <TextView
+                android:id="@+id/textViewConnessione"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_below="@+id/bntTestConnessione"
+                android:layout_alignParentLeft="true"
+                android:layout_alignRight="@+id/bntTestGPS" />
+
+            <TextView
+                android:id="@+id/textViewGPS"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:gravity="center_horizontal"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_below="@+id/bntTestGPS" />
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:text="@string/descrizione_pannello_funzionalita"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <Button
+                android:id="@+id/bntTestConnessione"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/test_connessione"
+                android:layout_below="@+id/textView1"
+                android:layout_marginTop="48dp"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentLeft="true" />
+
+            <Button
+                android:id="@+id/bntTestGPS"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/test_gps"
+                android:layout_below="@+id/textViewConnessione"
+                android:layout_alignParentLeft="true"
+                android:layout_marginTop="44dp"
+                android:layout_alignRight="@+id/textViewGPS" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/test_nfc"
+                android:id="@+id/bntTestNFC"
+                android:layout_below="@+id/textViewGPS"
+                android:layout_alignParentLeft="true"
+                android:layout_marginTop="40dp"
+                android:layout_alignRight="@+id/textViewGPS" />
+
+            <TextView
+                android:id="@+id/textViewNFC"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_alignRight="@+id/bntTestNFC"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/bntTestNFC" />
+
+        </RelativeLayout>
+    </ScrollView>
+
+</FrameLayout>

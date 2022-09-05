@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ManPro.net</string>
+    <string name="title_section1">Home Page</string>
+    <string name="title_section2">Control Pannel</string>
+    <string name="title_section3">General Setting</string>
+    <string name="title_section4">Exit</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_ricarica_pagina_accesso">Reload</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="menu_settings">Settings</string>
+
+    <string name="pref_controllo_avvio_localiz">Geo Localization</string>
+    <string name="pref_controllo_avvio_rete">Mobile network</string>
+    <string name="pref_controllo_avvio_nfc">Nfc</string>
+
+    <string name="pref_controllo_avvio_summary">Ceck this item is active when the APP start up</string>
+    <string name="avvisiErroriConnessione">Screen allert</string>
+    <string name="avvisiErroriConnessione_summary">Error Allert Setting</string>
+    <string name="pref_stringa_connessione">Connection String Setting</string>
+    <string name="pref_stringa_connessione_summary">Type the connection string you ricevid from Natisoft during subscription</string>
+
+    <string name="pref_attracco_db">Connection, credentials and others</string>
+    <string name="pref_update_setting">Info</string>
+
+    <string name="pref_iterazione_con_utente">view setting</string>
+
+    <string name="pref_fullscreen_title">Full screen mode</string>
+    <string name="pref_fullscreen_summary">This option set : full Screen mode. to activate this option set and restart the APP</string>
+
+
+    <string name="sel_file_o_scatta_foto">Select a file or take a Photo from Cam</string>
+
+    <string name="no_stringa_connessione">No Connetciont string found!</string>
+
+    <string name="reload">Loading...</string>
+
+    <string name="barCompressioneImg_title">Image resolution</string>
+    <string name="barCompressioneImg_summary">0 % </string>
+
+    <string name="stringa_non_riconosciuta">Connectio String Invalid!</string>
+
+    <string name="erroreJson1" >Bad Error verified type JSONException. Are you sure to be connectet?</string>
+
+    <string name="erroreSsl" >SSL.  error verified</string>
+
+    <string name="richiesta_nfc_scaduta">Nfc request Ended</string>
+
+    <string name="nfc_vuoto">Nfc empty! </string>
+
+    <string name="tasto_disabilitato">Button disbled</string>
+
+    <string name="annullato_barcode">Aborted: any barcode detected</string>
+
+    <string name="msg_letto">Just Read</string>
+
+    <string name="msg_attendere">Loading...</string>
+
+    <string name="msg_seleziona_contenuto">Content Selection ...</string>
+
+    <string name="msg_pronto_scansione">Ready to scan</string>
+
+    <string name="sistema_connesso">Android System Connected</string>
+    <string name="sistema_non_connesso">Android System disconnected</string>
+
+    <string name="localizzazione_attiva">Geo Localization activated</string>
+    <string name="localizzazione_non_attiva">Geolocalizzazione deactivated</string>
+
+    <string name="nfc_non_presente">Nfc not present</string>
+    <string name="nfc_presente_e_abilitato">Nfc not present or activated</string>
+    <string name="nfc_non_abilitato">Nfc desabled!</string>
+
+    <string name="avvisiErroriConnessione_entries_1">Errors</string>
+    <string name="avvisiErroriConnessione_entries_2">Alert and errors</string>
+    <string name="avvisiErroriConnessione_entries_3">Nothing</string>
+
+    <string name="cerca_manualmente_aggiornamenti">Search for application updates manually</string>
+    <string name="aggiorna_applicazione">App update</string>
+
+    <string name="versione_app">App version</string>
+
+    <string name="descrizione_pannello_funzionalita">In this panel it is possible to check if features are active on you Android system.</string>
+    <string name="test_connessione" >Connection test</string>
+    <string name="test_gps">Location test</string>
+    <string name="test_nfc">Nfc test</string>
+
+    <string name="pref_login">Username</string>
+    <string name="pref_login_summary">Type your username</string>
+    <string name="pref_pwd">Password</string>
+    <string name="pref_pwd_summary">Type the password used in web-portal</string>
+
+    <string name="categoria_servizi">Local services</string>
+    <string name="servizio_geolocalizzazione">Location</string>
+    <string name="pref_servizio_geolocalizzazione">Enable service to localize the device. The service run in background.</string>
+    <string name="servizio_ticket">Ticket</string>
+    <string name="pref_servizio_ticket">Enable service to show ticket number assigned. The service run in background.</string>
+
+
+    <string name="request_location_updates">Request location updates</string>
+    <string name="remove_location_updates">Remove location updates</string>
+
+    <string name="location_updated">Location Updated: %1$s</string>
+
+    <string name="richiestaPosizione">When the app is closed, it requires access to the GPS location</string>
+    <string name="mexRichiestaPosizione">It is used to allow the user to view the closest interventions</string>
+    <string name="title_sezione_rfid">Rfid</string>
+
+    <string name="indirizzo_portale">Address</string>
+    <string name="nome_odbc">Database</string>
+
+    <string name="titolo_msg_notif">Message Notification</string>
+
+</resources>

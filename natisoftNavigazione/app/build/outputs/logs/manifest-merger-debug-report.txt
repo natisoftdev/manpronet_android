@@ -1,0 +1,522 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:123:9-131:20
+	android:grantUriPermissions
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:127:13-47
+	android:authorities
+		INJECTED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:125:13-64
+	android:exported
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:126:13-37
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:124:13-62
+manifest
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:2:1-150:12
+INJECTED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:2:1-150:12
+INJECTED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:2:1-150:12
+INJECTED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:2:1-150:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\malfe\.gradle\caches\transforms-3\2a02311ccc42d225fb236ad6acdcb2e7\transformed\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\malfe\.gradle\caches\transforms-3\e44905d88435b8a284dfc0fee1bf9165\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\malfe\.gradle\caches\transforms-3\d02d975529811ae875e743a25b0bb47d\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\malfe\.gradle\caches\transforms-3\28e3699e3cda6166bcd0cc403f8c832c\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\malfe\.gradle\caches\transforms-3\3005694dc9f59cc766f890c0bf4bf765\transformed\jetified-volley-1.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\3fe5827d6ee265022c6c7d744237ebf4\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\68653bf21883c8f561deda403f4d10fb\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\malfe\.gradle\caches\transforms-3\8cb55503b36ad9de85cad1fe498b94c4\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\malfe\.gradle\caches\transforms-3\16bdb11fbb5dc0274a6fe1e0b510194e\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\malfe\.gradle\caches\transforms-3\1a13971d06ea804543051987033e3152\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\913e08ed52afe8f9bdfeff7169cfe857\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\06a90d9743f8212f77a343f46d78c090\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\malfe\.gradle\caches\transforms-3\c22fd05136e22dd74f12fdb52c866d0a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\ec14db118fa5a12c63b129931d41ad83\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\malfe\.gradle\caches\transforms-3\06d232761adef0ba5b5d99fd1a4b3500\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\malfe\.gradle\caches\transforms-3\bf9fef39d4962548a4e4bead6bd316b6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\malfe\.gradle\caches\transforms-3\34e4afa6bdb61e696bb8f3d82c690a41\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\a44f7d642c441ca604adf667f4646668\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\3a91b684008f575ae984b8716902e3f7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\5b5b966ca59807804aa23da69f0f2cc1\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\4fb902d840465e2b9805977f1d6b945a\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\malfe\.gradle\caches\transforms-3\af07ceebc9ddad3887a8cc2866511b22\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\2f558a16ae7effefb4c40445cb99fcf6\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\ab184f952a956d2124517adce3ea9eec\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\02ba2442eddfc12787d7e8f7834095e1\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\1d5929fdd2dd1eb6526d78cff549db56\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\malfe\.gradle\caches\transforms-3\e759884e8e1539e68246ec4d8729cc98\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\769e8eeb090a40829e9ec33d2a71a862\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\malfe\.gradle\caches\transforms-3\cea770675b9c8230e77cdcd03dff11d7\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\malfe\.gradle\caches\transforms-3\47ee6cc5d8c628cd164af8a763aae0ad\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\malfe\.gradle\caches\transforms-3\c0cddbcb2bc8479e529665d1c5db87bf\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\malfe\.gradle\caches\transforms-3\b411985d06432ad5b0fc161b0d0dd3dd\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\f950e68cf2d530665e7ddc5a0bb6330c\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\malfe\.gradle\caches\transforms-3\5861500acfc863b7035da42a520ef0d9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\a4b217e30b39977472a1efb97528117e\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\malfe\.gradle\caches\transforms-3\e39262abccdf4c3a9281c19542803319\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\malfe\.gradle\caches\transforms-3\c129541f22e72f5702460e9680d31346\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\malfe\.gradle\caches\transforms-3\4e5640acfa3303f029a6b28e05225f13\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\23574aa646515120bc7d481972f71742\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\4a686211be3134d52c983281414d9a4c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\137fae5cb8b43fd4d77cda20fb259169\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\2c33c4bae6ea4f0acc28f0ec64c6b2d4\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\301b99617320b59a57400f8a9ec84a15\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:2:1-150:12
+INJECTED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:2:1-150:12
+INJECTED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:2:1-150:12
+	package
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:4:5-38
+		INJECTED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:2:1-150:12
+		INJECTED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:2:1-150:12
+		INJECTED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:2:11-69
+queries
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:6:5-10:15
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:7:9-9:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:8:13-73
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:8:21-70
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:13:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:21:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:13:22-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_GPS
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:16:5-69
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:16:22-66
+uses-permission#android.permission.ACCESS_ASSISTED_GPS
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:17:5-78
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:17:22-75
+uses-permission#android.permission.ACCESS_LOCATION
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:18:5-74
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:18:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:21:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:23:22-77
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.NFC
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:25:5-62
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:25:22-59
+uses-permission#android.permission.NFC_TRANSACTION_EVENT
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:26:22-77
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:27:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:28:5-68
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:28:22-65
+uses-permission#android.permission.ACCESS_DOWNLOAD_MANAGER
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:29:5-82
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:29:22-79
+uses-permission#com.natisoftnavigazione.permission.C2D_MESSAGE
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:30:5-86
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:30:22-83
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:31:5-77
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:31:22-74
+uses-permission#android.permission.MICROPHONE
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:33:5-69
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:33:22-66
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:34:5-71
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:34:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:35:5-80
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:35:22-77
+permission#com.natisoftnavigazione.permission.C2D_MESSAGE
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:37:5-39:47
+	android:protectionLevel
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:39:9-44
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:38:9-70
+uses-feature#android.hardware.camera
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:41:5-43:36
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:24:5-26:36
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:42:9-47
+uses-feature#android.hardware.camera.flash
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:44:5-46:36
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:35:5-37:36
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:46:9-33
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:45:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:47:5-49:36
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:32:5-34:36
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:49:9-33
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:48:9-57
+uses-feature#android.hardware.nfc
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:50:5-52:36
+	android:required
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:52:9-33
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:51:9-44
+uses-feature#android.hardware.telephony
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:53:5-55:36
+	android:required
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:55:9-33
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:54:9-50
+uses-feature#android.hardware.audio.low_latency
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:56:5-58:36
+	android:required
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:58:9-33
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:57:9-58
+uses-feature#android.hardware.audio.pro
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:59:5-61:36
+	android:required
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:61:9-33
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:60:9-50
+uses-feature#android.hardware.microphone
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:62:5-64:36
+	android:required
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:64:9-33
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:63:9-51
+application
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:66:5-148:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:45:5-53:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:45:5-53:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\malfe\.gradle\caches\transforms-3\e44905d88435b8a284dfc0fee1bf9165\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\malfe\.gradle\caches\transforms-3\e44905d88435b8a284dfc0fee1bf9165\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\malfe\.gradle\caches\transforms-3\d02d975529811ae875e743a25b0bb47d\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\malfe\.gradle\caches\transforms-3\d02d975529811ae875e743a25b0bb47d\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0] C:\Users\malfe\.gradle\caches\transforms-3\e759884e8e1539e68246ec4d8729cc98\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\malfe\.gradle\caches\transforms-3\e759884e8e1539e68246ec4d8729cc98\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\malfe\.gradle\caches\transforms-3\5861500acfc863b7035da42a520ef0d9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\malfe\.gradle\caches\transforms-3\5861500acfc863b7035da42a520ef0d9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:71:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\malfe\.gradle\caches\transforms-3\e759884e8e1539e68246ec4d8729cc98\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:70:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:73:9-51
+	android:icon
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:69:9-45
+	android:allowBackup
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:68:9-36
+	android:theme
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:72:9-40
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:67:9-61
+activity#com.rfid.Rfid
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:74:9-76:39
+	android:exported
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:76:13-36
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:75:13-41
+activity#com.natisoftnavigazione.MainActivity
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:77:9-112:20
+	android:label
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:79:13-45
+	android:launchMode
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:78:13-41
+intent-filter#action:name:android.intent.action.GET_CONTENT+category:name:android.intent.category.CATEGORY_OPENABLE+data:mimeType:image/*
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:81:13-87:29
+action#android.intent.action.GET_CONTENT
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:82:17-76
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:82:25-73
+category#android.intent.category.CATEGORY_OPENABLE
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:84:17-86
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:84:27-83
+data
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:86:17-52
+	android:mimeType
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:86:23-49
+intent-filter#action:name:android.nfc.action.TAG_DISCOVERED+action:name:android.nfc.action.TECH_DISCOVERED+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:89:13-94:29
+action#android.nfc.action.TECH_DISCOVERED
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:90:17-77
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:90:25-74
+action#android.nfc.action.TAG_DISCOVERED
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:91:17-76
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:91:25-73
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:93:17-76
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:93:27-73
+meta-data#android.nfc.action.TECH_DISCOVERED
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:96:13-98:59
+	android:resource
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:98:17-56
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:97:17-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:100:13-105:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:101:17-69
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:101:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:103:17-77
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:103:27-74
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:107:13-111:29
+action#android.intent.action.SEND
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:108:17-69
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:108:25-66
+activity#com.natisoftnavigazione.UserSettingActivity
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:113:9-115:58
+	android:windowSoftInputMode
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:115:13-55
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:114:13-48
+activity#com.natisoftnavigazione.AnyOrientationCaptureActivity
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:116:9-121:67
+	android:screenOrientation
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:118:13-51
+	android:stateNotNeeded
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:119:13-42
+	android:windowSoftInputMode
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:121:13-55
+	android:theme
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:120:13-54
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:117:13-58
+receiver#com.autostart.autostart
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:134:9-141:20
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:134:19-57
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:135:13-140:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:136:17-79
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:136:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:137:17-82
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:137:25-79
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:138:17-81
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:138:25-78
+action#android.intent.action.TIME_SET
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:139:17-73
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:139:25-70
+service#com.servizi.BackgroundTicketService
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:143:9-146:39
+	android:enabled
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:145:13-35
+	android:exported
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:146:13-36
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:144:13-63
+uses-sdk
+INJECTED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:19:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:19:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\malfe\.gradle\caches\transforms-3\2a02311ccc42d225fb236ad6acdcb2e7\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\malfe\.gradle\caches\transforms-3\2a02311ccc42d225fb236ad6acdcb2e7\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\malfe\.gradle\caches\transforms-3\e44905d88435b8a284dfc0fee1bf9165\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\malfe\.gradle\caches\transforms-3\e44905d88435b8a284dfc0fee1bf9165\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\malfe\.gradle\caches\transforms-3\d02d975529811ae875e743a25b0bb47d\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\malfe\.gradle\caches\transforms-3\d02d975529811ae875e743a25b0bb47d\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\malfe\.gradle\caches\transforms-3\28e3699e3cda6166bcd0cc403f8c832c\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\malfe\.gradle\caches\transforms-3\28e3699e3cda6166bcd0cc403f8c832c\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\malfe\.gradle\caches\transforms-3\3005694dc9f59cc766f890c0bf4bf765\transformed\jetified-volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\malfe\.gradle\caches\transforms-3\3005694dc9f59cc766f890c0bf4bf765\transformed\jetified-volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\3fe5827d6ee265022c6c7d744237ebf4\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\3fe5827d6ee265022c6c7d744237ebf4\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\68653bf21883c8f561deda403f4d10fb\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\68653bf21883c8f561deda403f4d10fb\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\malfe\.gradle\caches\transforms-3\8cb55503b36ad9de85cad1fe498b94c4\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\malfe\.gradle\caches\transforms-3\8cb55503b36ad9de85cad1fe498b94c4\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\malfe\.gradle\caches\transforms-3\16bdb11fbb5dc0274a6fe1e0b510194e\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\malfe\.gradle\caches\transforms-3\16bdb11fbb5dc0274a6fe1e0b510194e\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\malfe\.gradle\caches\transforms-3\1a13971d06ea804543051987033e3152\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\malfe\.gradle\caches\transforms-3\1a13971d06ea804543051987033e3152\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\913e08ed52afe8f9bdfeff7169cfe857\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\913e08ed52afe8f9bdfeff7169cfe857\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\06a90d9743f8212f77a343f46d78c090\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\06a90d9743f8212f77a343f46d78c090\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\malfe\.gradle\caches\transforms-3\c22fd05136e22dd74f12fdb52c866d0a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\malfe\.gradle\caches\transforms-3\c22fd05136e22dd74f12fdb52c866d0a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\ec14db118fa5a12c63b129931d41ad83\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\ec14db118fa5a12c63b129931d41ad83\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\malfe\.gradle\caches\transforms-3\06d232761adef0ba5b5d99fd1a4b3500\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\malfe\.gradle\caches\transforms-3\06d232761adef0ba5b5d99fd1a4b3500\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\malfe\.gradle\caches\transforms-3\bf9fef39d4962548a4e4bead6bd316b6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\malfe\.gradle\caches\transforms-3\bf9fef39d4962548a4e4bead6bd316b6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\malfe\.gradle\caches\transforms-3\34e4afa6bdb61e696bb8f3d82c690a41\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\malfe\.gradle\caches\transforms-3\34e4afa6bdb61e696bb8f3d82c690a41\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\a44f7d642c441ca604adf667f4646668\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\a44f7d642c441ca604adf667f4646668\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\3a91b684008f575ae984b8716902e3f7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\3a91b684008f575ae984b8716902e3f7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\5b5b966ca59807804aa23da69f0f2cc1\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\5b5b966ca59807804aa23da69f0f2cc1\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\4fb902d840465e2b9805977f1d6b945a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\4fb902d840465e2b9805977f1d6b945a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\malfe\.gradle\caches\transforms-3\af07ceebc9ddad3887a8cc2866511b22\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\malfe\.gradle\caches\transforms-3\af07ceebc9ddad3887a8cc2866511b22\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\2f558a16ae7effefb4c40445cb99fcf6\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\2f558a16ae7effefb4c40445cb99fcf6\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\ab184f952a956d2124517adce3ea9eec\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\ab184f952a956d2124517adce3ea9eec\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\02ba2442eddfc12787d7e8f7834095e1\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\02ba2442eddfc12787d7e8f7834095e1\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\1d5929fdd2dd1eb6526d78cff549db56\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\1d5929fdd2dd1eb6526d78cff549db56\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\malfe\.gradle\caches\transforms-3\e759884e8e1539e68246ec4d8729cc98\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\malfe\.gradle\caches\transforms-3\e759884e8e1539e68246ec4d8729cc98\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\769e8eeb090a40829e9ec33d2a71a862\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\769e8eeb090a40829e9ec33d2a71a862\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\malfe\.gradle\caches\transforms-3\cea770675b9c8230e77cdcd03dff11d7\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\malfe\.gradle\caches\transforms-3\cea770675b9c8230e77cdcd03dff11d7\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\malfe\.gradle\caches\transforms-3\47ee6cc5d8c628cd164af8a763aae0ad\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\malfe\.gradle\caches\transforms-3\47ee6cc5d8c628cd164af8a763aae0ad\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\malfe\.gradle\caches\transforms-3\c0cddbcb2bc8479e529665d1c5db87bf\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\malfe\.gradle\caches\transforms-3\c0cddbcb2bc8479e529665d1c5db87bf\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\malfe\.gradle\caches\transforms-3\b411985d06432ad5b0fc161b0d0dd3dd\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\malfe\.gradle\caches\transforms-3\b411985d06432ad5b0fc161b0d0dd3dd\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\f950e68cf2d530665e7ddc5a0bb6330c\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\f950e68cf2d530665e7ddc5a0bb6330c\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\malfe\.gradle\caches\transforms-3\5861500acfc863b7035da42a520ef0d9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\malfe\.gradle\caches\transforms-3\5861500acfc863b7035da42a520ef0d9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\a4b217e30b39977472a1efb97528117e\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\a4b217e30b39977472a1efb97528117e\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\malfe\.gradle\caches\transforms-3\e39262abccdf4c3a9281c19542803319\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\malfe\.gradle\caches\transforms-3\e39262abccdf4c3a9281c19542803319\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\malfe\.gradle\caches\transforms-3\c129541f22e72f5702460e9680d31346\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\malfe\.gradle\caches\transforms-3\c129541f22e72f5702460e9680d31346\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\malfe\.gradle\caches\transforms-3\4e5640acfa3303f029a6b28e05225f13\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\malfe\.gradle\caches\transforms-3\4e5640acfa3303f029a6b28e05225f13\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\23574aa646515120bc7d481972f71742\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\23574aa646515120bc7d481972f71742\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\4a686211be3134d52c983281414d9a4c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\4a686211be3134d52c983281414d9a4c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\137fae5cb8b43fd4d77cda20fb259169\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\137fae5cb8b43fd4d77cda20fb259169\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\2c33c4bae6ea4f0acc28f0ec64c6b2d4\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\2c33c4bae6ea4f0acc28f0ec64c6b2d4\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\301b99617320b59a57400f8a9ec84a15\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\malfe\.gradle\caches\transforms-3\301b99617320b59a57400f8a9ec84a15\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:128:13-130:58
+	android:resource
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:130:17-55
+	android:name
+		ADDED from C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:129:17-67
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:39:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:42:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:46:9-52:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:49:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:48:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:50:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:52:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:47:13-74

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ManPro.net</string>
+    <string name="title_section1">Pagina principale</string>
+    <string name="title_section2">Pannello di controllo</string>
+    <string name="title_section3">Impostazioni</string>
+    <string name="title_section4">Uscita</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_ricarica_pagina_accesso">Ricarica pagina</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="menu_settings">Settings</string>
+
+    <string name="pref_controllo_avvio_localiz">Localizzazione</string>
+    <string name="pref_controllo_avvio_rete">Rete Mobile</string>
+    <string name="pref_controllo_avvio_nfc">Nfc</string>
+
+    <string name="pref_controllo_avvio_summary">All\'avvio verifica che il sistema supporti l\'elemento selezionato.</string>
+    <string name="avvisiErroriConnessione">Avvisi a schermo</string>
+    <string name="avvisiErroriConnessione_summary">Imposta gli avvisi che compaiono in caso di errore</string>
+    <string name="pref_stringa_connessione">Imposta stringa di connessione</string>
+    <string name="pref_stringa_connessione_summary">Digita la stringa di connessione che è stata fornita da Natisoft srl</string>
+
+    <string name="pref_attracco_db">Connessione e credenziali di accesso</string>
+    <string name="pref_update_setting">Informazioni</string>
+
+    <string name="pref_iterazione_con_utente">Preferenze di visualizzazione</string>
+
+    <string name="pref_fullscreen_title">Full screen mode</string>
+    <string name="pref_fullscreen_summary">Visualizza il contenuto a schermo intero.\nPer poter essere attivato/disattivato bisogna chiudere e riaprire l\'app.</string>
+
+
+    <string name="sel_file_o_scatta_foto">Seleziona un file o scatta una nuova foto</string>
+
+    <string name="no_stringa_connessione">Nessuna stringa di connessione trovata!</string>
+
+    <string name="reload">Caricamento in corso...</string>
+
+    <string name="barCompressioneImg_title">Qualità immagine</string>
+    <string name="barCompressioneImg_summary">0 % </string>
+
+    <string name="stringa_non_riconosciuta">Stringa di connessione non riconosciuta!</string>
+
+    <string name="erroreJson1" >Si è verificato un brutto errore di tipo JSONException. Sei sicuro di essere connesso a internet?</string>
+
+    <string name="erroreSsl" >Si è verificato un errore SSL.</string>
+
+    <string name="richiesta_nfc_scaduta">Richiesta Nfc scaduta.</string>
+
+    <string name="nfc_vuoto">Nfc vuoto.</string>
+
+    <string name="tasto_disabilitato">Tasto disattivato.</string>
+
+    <string name="annullato_barcode">Annullato: nessun barcode catturato.</string>
+
+    <string name="msg_letto">E\' stato letto: </string>
+
+    <string name="msg_attendere">Caricamento...</string>
+
+    <string name="msg_seleziona_contenuto">Seleziona contenuto...</string>
+
+    <string name="msg_pronto_scansione">Pronto alla scansione</string>
+
+    <string name="sistema_connesso">Sistema android connesso</string>
+    <string name="sistema_non_connesso">Sistema android non connesso</string>
+
+    <string name="localizzazione_attiva">Geolocalizzazione attiva</string>
+    <string name="localizzazione_non_attiva">Geolocalizzazione non attiva</string>
+
+    <string name="nfc_non_presente">Nfc non presente</string>
+    <string name="nfc_presente_e_abilitato">Nfc presente e abilitato!</string>
+    <string name="nfc_non_abilitato">Nfc non abilitato!</string>
+
+    <string name="avvisiErroriConnessione_entries_1">Errori</string>
+    <string name="avvisiErroriConnessione_entries_2">Errori e Avvisi</string>
+    <string name="avvisiErroriConnessione_entries_3">Nessuno (sconsigliato)</string>
+
+    <string name="cerca_manualmente_aggiornamenti">Cerca manualmente gli aggiornamenti per l\'applicazione</string>
+    <string name="aggiorna_applicazione">Aggiorna applicazione</string>
+
+    <string name="versione_app">Versione dell\'applicazione</string>
+
+    <string name="descrizione_pannello_funzionalita">In questo pannello è possibile verificare in modo rapito se sul sistema Android sono attive alcune funzionalità.</string>
+    <string name="test_connessione" >Test di connessione</string>
+    <string name="test_gps">Test gps</string>
+    <string name="test_nfc">Test Nfc</string>
+
+    <string name="pref_login">Username per il login</string>
+    <string name="pref_login_summary">Digita il tuo username</string>
+    <string name="pref_pwd">Password</string>
+    <string name="pref_pwd_summary">Digita la password che utilizzi per accedere al portale web</string>
+
+    <string name="categoria_servizi">Servizi locali</string>
+    <string name="servizio_geolocalizzazione">Geolocalizzazione</string>
+    <string name="pref_servizio_geolocalizzazione">Attiva il servizio per localizzare il telefono. Il servizio manda la posizione a intervalli regolari.</string>
+    <string name="servizio_ticket">Ticket</string>
+    <string name="pref_servizio_ticket">Abilita il servizio per avere la notifica con il numero di ticket assegnati.</string>
+
+    <string name="request_location_updates">Richiesta di location updates</string>
+    <string name="remove_location_updates">Rimuovi i location updates</string>
+
+    <string name="location_updated">Location Updated: %1$s</string>
+
+    <string name="richiestaPosizione">Quando questa app è chiusa, richiede l\'accesso alla posizione GPS</string>
+    <string name="mexRichiestaPosizione">Serve per consentire all\'utente di visualizzare gli interventi più vicini</string>
+
+    <string name="title_sezione_rfid">Rfid</string>
+
+    <string name="indirizzo_portale">Indirizzo del portale</string>
+    <string name="nome_odbc">Database</string>
+
+    <string name="titolo_msg_notif">Servizio di Notifica</string>
+
+</resources>

@@ -1,0 +1,4 @@
+#Tue Aug 23 09:56:10 CEST 2022
+base.0=C\:\\Users\\malfe\\Downloads\\natisoftNavigazione202208181435\\natisoftNavigazione\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

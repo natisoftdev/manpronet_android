@@ -1,0 +1,75 @@
+com/rfid/Rfid.java
+ com.rfid.Rfid
+com/utility/Geolocalizzazione.java
+ com.utility.Geolocalizzazione
+com/nfc/RichiestaNFC.java
+ com.nfc.RichiestaNFC
+com/utility/GestioneUri.java
+ com.utility.GestioneUri
+com/utility/Avvisi.java
+ com.utility.Avvisi
+ com.utility.Avvisi$1
+com/costanti/CostantiWeb.java
+ com.costanti.CostantiWeb
+com/utility/MobileData.java
+ com.utility.MobileData
+com/internet/RisoluzioneIndirizzoPortale.java
+ com.internet.RisoluzioneIndirizzoPortale
+com/nfc/NdefReaderTask.java
+ com.nfc.NdefReaderTask
+com/natisoftnavigazione/UserSettingActivity.java
+ com.natisoftnavigazione.UserSettingActivity
+ com.natisoftnavigazione.UserSettingActivity$1
+ com.natisoftnavigazione.UserSettingActivity$2
+com/natisoftnavigazione/BuildConfig.java
+ com.natisoftnavigazione.BuildConfig
+com/natisoftnavigazione/MyAdapter.java
+ com.natisoftnavigazione.MyAdapter
+com/internet/InviaPosizione.java
+ com.internet.InviaPosizione
+com/natisoftnavigazione/AnyOrientationCaptureActivity.java
+ com.natisoftnavigazione.AnyOrientationCaptureActivity
+com/nfc/NdefWriterTask.java
+ com.nfc.NdefWriterTask
+com/natisoftnavigazione/NavigationDrawerFragment.java
+ com.natisoftnavigazione.NavigationDrawerFragment
+ com.natisoftnavigazione.NavigationDrawerFragment$1
+ com.natisoftnavigazione.NavigationDrawerFragment$2
+ com.natisoftnavigazione.NavigationDrawerFragment$3
+ com.natisoftnavigazione.NavigationDrawerFragment$NavigationDrawerCallbacks
+com/database/myDbAdapter.java
+ com.database.myDbAdapter
+ com.database.myDbAdapter$myDbHelper
+com/natisoftnavigazione/MainActivity.java
+ com.natisoftnavigazione.MainActivity
+ com.natisoftnavigazione.MainActivity$1
+ com.natisoftnavigazione.MainActivity$2
+ com.natisoftnavigazione.MainActivity$3
+ com.natisoftnavigazione.MainActivity$4
+ com.natisoftnavigazione.MainActivity$5
+ com.natisoftnavigazione.MainActivity$6
+ com.natisoftnavigazione.MainActivity$ImpostazioniFragment
+ com.natisoftnavigazione.MainActivity$ImpostazioniFragment$1
+ com.natisoftnavigazione.MainActivity$ImpostazioniFragment$2
+ com.natisoftnavigazione.MainActivity$ImpostazioniFragment$3
+ com.natisoftnavigazione.MainActivity$NavigazioneFragment
+ com.natisoftnavigazione.MainActivity$NavigazioneFragment$1
+ com.natisoftnavigazione.MainActivity$NavigazioneFragment$2
+ com.natisoftnavigazione.MainActivity$NavigazioneFragment$2$1
+ com.natisoftnavigazione.MainActivity$NavigazioneFragment$2$2
+ com.natisoftnavigazione.MainActivity$NavigazioneFragment$3
+ com.natisoftnavigazione.MainActivity$NavigazioneFragment$JavaScriptInterface
+ com.natisoftnavigazione.MainActivity$RfidFragment
+ com.natisoftnavigazione.MainActivity$RfidFragment$1
+com/autostart/autostart.java
+ com.autostart.autostart
+com/servizi/BackgroundTicketService.java
+ com.servizi.BackgroundTicketService
+ com.servizi.BackgroundTicketService$1
+ com.servizi.BackgroundTicketService$1$1
+ com.servizi.BackgroundTicketService$1$1$1
+ com.servizi.BackgroundTicketService$1$1$2
+ com.servizi.BackgroundTicketService$1$1$3
+ com.servizi.BackgroundTicketService$2
+ com.servizi.BackgroundTicketService$3
+ com.servizi.BackgroundTicketService$BackgroundTicketServiceBinder

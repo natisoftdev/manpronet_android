@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<string-array name="avvisiErroriConnessione_entries">
+        <item name="1">@string/avvisiErroriConnessione_entries_1</item>
+        <item name="2">@string/avvisiErroriConnessione_entries_2</item>
+        <item name="3">@string/avvisiErroriConnessione_entries_3</item>
+    </string-array>
+    
+	<string-array name="avvisiErroriConnessione_values">
+        <item name="errori">1</item>
+        <item name="errori_avvisi">2</item>
+        <item name="nessuno">3</item> 
+    </string-array>
+	
+</resources>

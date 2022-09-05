@@ -1,0 +1,344 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.natisoftnavigazione"
+4    android:versionCode="151"
+5    android:versionName="8.4.8" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml
+10
+11    <queries>
+11-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:6:5-10:15
+12        <intent>
+12-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:7:9-9:18
+13            <action android:name="android.media.action.IMAGE_CAPTURE" />
+13-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:8:13-73
+13-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:8:21-70
+14        </intent>
+15    </queries>
+16
+17    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+17-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:12:5-75
+17-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:12:22-72
+18    <uses-permission android:name="android.permission.CAMERA" />
+18-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:13:5-65
+18-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:13:22-62
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:14:5-67
+19-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:14:22-64
+20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+20-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:15:5-79
+20-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:15:22-76
+21    <uses-permission android:name="android.permission.ACCESS_GPS" />
+21-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:16:5-69
+21-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:16:22-66
+22    <uses-permission android:name="android.permission.ACCESS_ASSISTED_GPS" />
+22-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:17:5-78
+22-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:17:22-75
+23    <uses-permission android:name="android.permission.ACCESS_LOCATION" />
+23-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:18:5-74
+23-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:18:22-71
+24    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+24-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:19:5-81
+24-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:19:22-78
+25    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+25-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:20:5-79
+25-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:20:22-76
+26    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+26-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:21:5-80
+26-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:21:22-77
+27    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+27-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:22:5-81
+27-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:22:22-78
+28    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+28-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:23:5-80
+28-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:23:22-77
+29    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+29-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:24:5-81
+29-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:24:22-78
+30    <uses-permission android:name="android.permission.NFC" />
+30-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:25:5-62
+30-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:25:22-59
+31    <uses-permission android:name="android.permission.NFC_TRANSACTION_EVENT" />
+31-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:26:5-80
+31-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:26:22-77
+32    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+32-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:27:5-81
+32-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:27:22-78
+33    <uses-permission android:name="android.permission.WAKE_LOCK" />
+33-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:28:5-68
+33-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:28:22-65
+34    <uses-permission android:name="android.permission.ACCESS_DOWNLOAD_MANAGER" />
+34-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:29:5-82
+34-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:29:22-79
+35    <uses-permission android:name="com.natisoftnavigazione.permission.C2D_MESSAGE" />
+35-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:30:5-86
+35-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:30:22-83
+36    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+36-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:31:5-77
+36-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:31:22-74
+37    <uses-permission android:name="android.permission.MICROPHONE" />
+37-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:33:5-69
+37-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:33:22-66
+38    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+38-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:34:5-71
+38-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:34:22-68
+39    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+39-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:35:5-80
+39-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:35:22-77
+40
+41    <permission
+41-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:37:5-39:47
+42        android:name="com.natisoftnavigazione.permission.C2D_MESSAGE"
+42-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:38:9-70
+43        android:protectionLevel="signature" />
+43-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:39:9-44
+44
+45    <uses-feature
+45-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:41:5-43:36
+46        android:name="android.hardware.camera"
+46-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:42:9-47
+47        android:required="false" />
+47-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:43:9-33
+48    <uses-feature
+48-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:44:5-46:36
+49        android:name="android.hardware.camera.flash"
+49-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:45:9-53
+50        android:required="false" />
+50-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:46:9-33
+51    <uses-feature
+51-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:47:5-49:36
+52        android:name="android.hardware.camera.autofocus"
+52-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:48:9-57
+53        android:required="false" />
+53-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:49:9-33
+54    <uses-feature
+54-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:50:5-52:36
+55        android:name="android.hardware.nfc"
+55-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:51:9-44
+56        android:required="false" />
+56-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:52:9-33
+57    <uses-feature
+57-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:53:5-55:36
+58        android:name="android.hardware.telephony"
+58-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:54:9-50
+59        android:required="false" />
+59-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:55:9-33
+60    <uses-feature
+60-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:56:5-58:36
+61        android:name="android.hardware.audio.low_latency"
+61-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:57:9-58
+62        android:required="false" />
+62-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:58:9-33
+63    <uses-feature
+63-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:59:5-61:36
+64        android:name="android.hardware.audio.pro"
+64-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:60:9-50
+65        android:required="false" />
+65-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:61:9-33
+66    <uses-feature
+66-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:62:5-64:36
+67        android:name="android.hardware.microphone"
+67-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:63:9-51
+68        android:required="false" />
+68-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:64:9-33
+69    <uses-feature
+69-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:27:5-29:36
+70        android:name="android.hardware.camera.front"
+70-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:28:9-53
+71        android:required="false" />
+71-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:29:9-33
+72    <uses-feature
+72-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:38:5-40:36
+73        android:name="android.hardware.screen.landscape"
+73-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:39:9-57
+74        android:required="false" />
+74-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:40:9-33
+75    <uses-feature
+75-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:41:5-43:36
+76        android:name="android.hardware.wifi"
+76-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:42:9-45
+77        android:required="false" />
+77-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:43:9-33
+78
+79    <application
+79-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:66:5-148:19
+80        android:name="androidx.multidex.MultiDexApplication"
+80-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:67:9-61
+81        android:allowBackup="false"
+81-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:68:9-36
+82        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+82-->[androidx.core:core:1.5.0] C:\Users\malfe\.gradle\caches\transforms-3\e759884e8e1539e68246ec4d8729cc98\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+83        android:debuggable="true"
+84        android:extractNativeLibs="false"
+85        android:icon="@drawable/ic_launcher"
+85-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:69:9-45
+86        android:label="@string/app_name"
+86-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:70:9-41
+87        android:requestLegacyExternalStorage="true"
+87-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:71:9-52
+88        android:testOnly="true"
+89        android:theme="@style/AppTheme"
+89-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:72:9-40
+90        android:windowSoftInputMode="adjustResize" >
+90-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:73:9-51
+91        <activity
+91-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:74:9-76:39
+92            android:name="com.rfid.Rfid"
+92-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:75:13-41
+93            android:exported="true" />
+93-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:76:13-36
+94        <activity
+94-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:77:9-112:20
+95            android:name="com.natisoftnavigazione.MainActivity"
+95-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:78:13-41
+96            android:label="@string/app_name"
+96-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:79:13-45
+97            android:launchMode="singleTask" >
+97-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:80:13-44
+98            <intent-filter>
+98-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:81:13-87:29
+99                <action android:name="android.intent.action.GET_CONTENT" />
+99-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:82:17-76
+99-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:82:25-73
+100
+101                <category android:name="android.intent.category.CATEGORY_OPENABLE" />
+101-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:84:17-86
+101-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:84:27-83
+102
+103                <data android:mimeType="image/*" />
+103-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:86:17-52
+103-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:86:23-49
+104            </intent-filter>
+105            <intent-filter>
+105-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:89:13-94:29
+106                <action android:name="android.nfc.action.TECH_DISCOVERED" />
+106-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:90:17-77
+106-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:90:25-74
+107                <action android:name="android.nfc.action.TAG_DISCOVERED" />
+107-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:91:17-76
+107-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:91:25-73
+108
+109                <category android:name="android.intent.category.DEFAULT" />
+109-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:93:17-76
+109-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:93:27-73
+110            </intent-filter>
+111
+112            <meta-data
+112-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:96:13-98:59
+113                android:name="android.nfc.action.TECH_DISCOVERED"
+113-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:97:17-66
+114                android:resource="@xml/nfc_tech_filter" />
+114-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:98:17-56
+115
+116            <intent-filter>
+116-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:100:13-105:29
+117                <action android:name="android.intent.action.MAIN" />
+117-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:101:17-69
+117-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:101:25-66
+118
+119                <category android:name="android.intent.category.LAUNCHER" />
+119-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:103:17-77
+119-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:103:27-74
+120            </intent-filter>
+121            <intent-filter>
+121-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:107:13-111:29
+122                <action android:name="android.intent.action.SEND" />
+122-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:108:17-69
+122-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:108:25-66
+123
+124                <category android:name="android.intent.category.DEFAULT" />
+124-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:93:17-76
+124-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:93:27-73
+125
+126                <data android:mimeType="text/plain" />
+126-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:86:17-52
+126-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:86:23-49
+127            </intent-filter>
+128        </activity>
+129        <activity
+129-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:113:9-115:58
+130            android:name="com.natisoftnavigazione.UserSettingActivity"
+130-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:114:13-48
+131            android:windowSoftInputMode="adjustResize" />
+131-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:115:13-55
+132        <activity
+132-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:116:9-121:67
+133            android:name="com.natisoftnavigazione.AnyOrientationCaptureActivity"
+133-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:117:13-58
+134            android:screenOrientation="fullSensor"
+134-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:118:13-51
+135            android:stateNotNeeded="true"
+135-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:119:13-42
+136            android:theme="@style/zxing_CaptureTheme"
+136-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:120:13-54
+137            android:windowSoftInputMode="adjustResize" />
+137-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:121:13-55
+138
+139        <provider
+140            android:name="androidx.core.content.FileProvider"
+140-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:124:13-62
+141            android:authorities="com.natisoftnavigazione.fileProvider"
+141-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:125:13-64
+142            android:exported="false"
+142-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:126:13-37
+143            android:grantUriPermissions="true" >
+143-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:127:13-47
+144            <meta-data
+144-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:128:13-130:58
+145                android:name="android.support.FILE_PROVIDER_PATHS"
+145-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:129:17-67
+146                android:resource="@xml/provider_paths" />
+146-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:130:17-55
+147        </provider>
+148
+149        <!-- Autostart -->
+150        <receiver android:name="com.autostart.autostart" >
+150-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:134:9-141:20
+150-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:134:19-57
+151            <intent-filter>
+151-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:135:13-140:29
+152                <action android:name="android.intent.action.BOOT_COMPLETED" />
+152-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:136:17-79
+152-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:136:25-76
+153                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+153-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:137:17-82
+153-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:137:25-79
+154                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+154-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:138:17-81
+154-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:138:25-78
+155                <action android:name="android.intent.action.TIME_SET" />
+155-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:139:17-73
+155-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:139:25-70
+156            </intent-filter>
+157        </receiver>
+158
+159        <service
+159-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:143:9-146:39
+160            android:name="com.servizi.BackgroundTicketService"
+160-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:144:13-63
+161            android:enabled="true"
+161-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:145:13-35
+162            android:exported="true" />
+162-->C:\Users\malfe\Downloads\natisoftNavigazione202208181435\natisoftNavigazione\app\src\main\AndroidManifest.xml:146:13-36
+163
+164        <activity
+164-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:46:9-52:63
+165            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+165-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:47:13-74
+166            android:clearTaskOnLaunch="true"
+166-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:48:13-45
+167            android:screenOrientation="sensorLandscape"
+167-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:49:13-56
+168            android:stateNotNeeded="true"
+168-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:50:13-42
+169            android:theme="@style/zxing_CaptureTheme"
+169-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:51:13-54
+170            android:windowSoftInputMode="stateAlwaysHidden" />
+170-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\malfe\.gradle\caches\transforms-3\9079518d90aaf3f829b6beb11aceb302\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:52:13-60
+171    </application>
+172
+173</manifest>
